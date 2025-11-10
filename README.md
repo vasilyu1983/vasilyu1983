@@ -8,7 +8,7 @@ Chief Data & AI Officer at **Altery** | 20+ years across TradFi & Crypto Rails |
 
 ### About Me
 
-🤖 **Current Role:** Chief Data & AI Officer at [Altery](https://altery.io) (promoted from CPO, Jun 2025)
+🤖 **Current Role:** Chief Data & AI Officer at [Altery](https://www.altery.com) (promoted from CPO, Jun 2025)
 
 🏦 **Domain:** Tech × Finance × Business operator bridging TradFi, crypto rails, and LLM-powered automation
 
