@@ -51,47 +51,6 @@ Chief Data & AI Officer at **Altery** | 20+ years across TradFi & Crypto Rails |
 
 ---
 
-## Career Highlights 📈
-
-### Impact Metrics at Altery
-
-🚀 **Growth**
-- Scaled from 0 → **€13M+ monthly GMV** in <12 months
-- **72 corporate accounts** (1 → 72× in 10 months)
-- **4,895 verified users** (161 → 30× growth)
-- Corporate MAU: 12 → 56 (+4.7×)
-
-💰 **Revenue & Efficiency**
-- Single-month peak: **€16.4M** corporate volume
-- **2.5× CAC reduction** while tripling conversion
-- Approval rate tripled: 3.45% → 10.5%
-- First-transaction CVR: 1.0% → 2.9%
-
-🤖 **AI & Automation**
-- Deployed **40+ production AI agents** across 8 departments
-- Cut KYB onboarding from days to **minutes** (Vivox AI integration saved 5+ hours per case)
-- Built enterprise-wide OpenAI platform with centralized governance
-- Fostered AI-first culture integrating OpenAI, Claude, Grok, Gemini, Cursor
-
-### Previous Roles Impact
-
-💼 **ECOMMPAY** (Director of Product)
-- Cut KYB onboarding: **90 → 12 days**
-- Improved time-to-revenue by **70%**
-- Reduced CAC by **20%**
-
-🏦 **Bank Otkritie** (Head of Business Technologies)
-- Scaled SME lending: **₽70B → ₽130B**
-- Deployed **100+ RPA bots**, cutting processing time **5×**
-- Managed **£100M+ IT portfolio** (21 teams, 230+ engineers)
-- Built AI-powered KYB system with **92-94% OCR accuracy**
-
-📊 **Moscow Exchange** (Senior Product Manager)
-- Replaced 50% of legacy dependencies: **£1.7M annual savings**
-- Reduced onboarding abandonment by **35%**
-
----
-
 ## Tech & AI Stack 💻
 
 ### AI/LLM Technologies
