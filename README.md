@@ -9,9 +9,13 @@ Chief Data & AI Officer at **Altery** | 20+ years across TradFi & Crypto Rails |
 ### About Me
 
 🤖 **Current Role:** Chief Data & AI Officer at [Altery](https://www.altery.com) (promoted from CPO, Jun 2025)
+
 🏦 **Domain:** Tech × Finance × Business operator bridging TradFi, crypto rails, and LLM-powered automation
+
 💼 **Background:** Ex-banking tech head (Otkritie, Sberbank, VTB) running £100M+ portfolios and 230+ FTE orgs
+
 🎓 **Education:** MSc Computer Engineering (Bauman MSTU) + BSc Finance
+
 🌍 **Location:** London, UK | Open to remote-first roles
 
 **Operating Style:** Disruptor-Strategist. Systems thinker who scales fast, destroys friction by default, and demands signal over noise.
