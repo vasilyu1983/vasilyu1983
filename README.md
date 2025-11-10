@@ -113,24 +113,6 @@ Comprehensive collection of 40+ production-ready AI agents covering:
 
 ---
 
-## What I'm Looking For 🤝
-
-**Open to collaboration on:**
-- AI agent frameworks and LLM orchestration patterns
-- Fintech automation and embedded finance infrastructure
-- Product strategy for regulated financial services
-- Compliance automation (KYC/AML/KYB workflow optimization)
-
-**Available for consulting:**
-- 0→1 product builds in fintech and crypto
-- AI/LLM integration strategy for enterprise
-- Platform architecture and scaling
-- OKR frameworks and squad organization
-
-**Preferred contact:** [LinkedIn](https://linkedin.com/in/vasiliyuvarov) for professional inquiries
-
----
-
 <div align="center">
 
 **💡 "I don't optimize noise — I re-architect signal."**
