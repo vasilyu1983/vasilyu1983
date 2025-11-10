@@ -1,4 +1,4 @@
-# Hi, I'm Vasiliy Uvarov 👋
+# Hi, I'm Vasiliy 👋
 
 ## I architect AI-powered fintech systems where regulated finance meets LLM automation.
 
