@@ -87,20 +87,6 @@ Chief Data & AI Officer at **Altery** | 20+ years across TradFi & Crypto Rails |
 
 ---
 
-## GitHub Stats 📊
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasilyu1983&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasilyu1983&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vasilyu1983&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## Key Projects & Contributions 🚀
 
 ### AI Agents Repository
@@ -123,21 +109,6 @@ Comprehensive collection of 40+ production-ready AI agents covering:
 
 ---
 
-## Professional Journey 🎯
-
-**2024 - Present** | Chief Data & AI Officer @ Altery
-**2023 - 2024** | Chief Product Officer @ Altery
-**2023** | Independent Product Consultant @ Crypto Exchange (NDA)
-**2022 - 2023** | Chief Product Owner @ ECOMMPAY
-**2021 - 2022** | Director of Business Development @ Taiger (AI/NLP)
-**2021 - 2022** | Senior Product Manager @ Moscow Exchange
-**2018 - 2021** | Head of Business Technologies @ Bank Otkritie
-**2016 - 2018** | Senior Product Owner @ Sberbank
-**2008 - 2016** | Program Manager @ VTB Bank
-**2003 - 2008** | Senior Software Engineer @ Develonica
-
----
-
 ## What I'm Looking For 🤝
 
 **Open to collaboration on:**
@@ -153,13 +124,6 @@ Comprehensive collection of 40+ production-ready AI agents covering:
 - OKR frameworks and squad organization
 
 **Preferred contact:** [LinkedIn](https://linkedin.com/in/vasiliyuvarov) for professional inquiries
-
----
-
-## Languages 🌐
-
-🇬🇧 **English** - C2 (IELTS 8.0)
-🇷🇺 **Russian** - Native
 
 ---
 
