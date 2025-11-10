@@ -127,6 +127,7 @@ Chief Data & AI Officer at **Altery** | 20+ years across TradFi & Crypto Rails |
 ### AI Development Tools
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=visual-studio-code&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat&logo=anthropic&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/Codex_CLI-FF6B6B?style=flat&logo=openai&logoColor=white)
 ![V0](https://img.shields.io/badge/V0-000000?style=flat&logo=vercel&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
 
@@ -150,7 +151,6 @@ Comprehensive collection of 40+ production-ready AI agents covering:
 ### Data & Analytics
 - Metabase migration (deprecated Looker, MS Reporting, Excel)
 - Real-time dashboards driving OKR reviews
-- Paid ad optimization: Google 3.8%, Telegram 3%, Meta 32%, X 11%
 
 ---
 
