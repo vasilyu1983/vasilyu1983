@@ -136,7 +136,7 @@ Chief Data & AI Officer at **Altery** | 20+ years across TradFi & Crypto Rails |
 ## Key Projects & Contributions 🚀
 
 ### 🎯 AI Agents Library - Production AI Development Ecosystem
-**[vasilyu1983/ai-agents-library](https://github.com/vasilyu1983/ai-agents-library)** - Complete AI development ecosystem with 40+ Custom GPT agents and 36+ Claude Code skills
+**[vasilyu1983/AI-Agents-public](https://github.com/vasilyu1983/AI-Agents-public)** - Complete AI development ecosystem with 40+ Custom GPT agents and 36+ Claude Code skills
 
 #### 📦 Development Frameworks (Copy-Paste Ready)
 
