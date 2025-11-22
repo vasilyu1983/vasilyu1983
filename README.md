@@ -9,13 +9,9 @@ Chief Data & AI Officer at **Altery** | 20+ years across TradFi & Crypto Rails |
 ### About Me
 
 🤖 **Current Role:** Chief Data & AI Officer at [Altery](https://www.altery.com) (promoted from CPO, Jun 2025)
-
 🏦 **Domain:** Tech × Finance × Business operator bridging TradFi, crypto rails, and LLM-powered automation
-
 💼 **Background:** Ex-banking tech head (Otkritie, Sberbank, VTB) running £100M+ portfolios and 230+ FTE orgs
-
 🎓 **Education:** MSc Computer Engineering (Bauman MSTU) + BSc Finance
-
 🌍 **Location:** London, UK | Open to remote-first roles
 
 **Operating Style:** Disruptor-Strategist. Systems thinker who scales fast, destroys friction by default, and demands signal over noise.
@@ -105,6 +101,7 @@ Chief Data & AI Officer at **Altery** | 20+ years across TradFi & Crypto Rails |
 ### AI/LLM Technologies
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/Codex_CLI-FF6B6B?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
 
@@ -131,7 +128,6 @@ Chief Data & AI Officer at **Altery** | 20+ years across TradFi & Crypto Rails |
 ### AI Development Tools
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=visual-studio-code&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat&logo=anthropic&logoColor=white)
-![Codex CLI](https://img.shields.io/badge/Codex_CLI-FF6B6B?style=flat&logo=openai&logoColor=white)
 ![V0](https://img.shields.io/badge/V0-000000?style=flat&logo=vercel&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
 
@@ -139,12 +135,47 @@ Chief Data & AI Officer at **Altery** | 20+ years across TradFi & Crypto Rails |
 
 ## Key Projects & Contributions 🚀
 
-### AI Agents Repository
-Comprehensive collection of 40+ production-ready AI agents covering:
-- KYC/Compliance automation (KYB Translator, Hawkeye, RegLens)
-- Strategic intelligence (RegulatoryGPT, Expansion Scanner)
-- Product & ops tools (Metabase Buddy, Customer Support)
-- Prompt engineering frameworks and templates
+### 🎯 AI Agents Library - Production AI Development Ecosystem
+**[vasilyu1983/ai-agents-library](https://github.com/vasilyu1983/ai-agents-library)** - Complete AI development ecosystem with 40+ Custom GPT agents and 36+ Claude Code skills
+
+#### 📦 Development Frameworks (Copy-Paste Ready)
+
+**Claude Code Kit** - Complete `.claude/` workspace with 36 production-ready skills
+- 🏗️ Software Development: Frontend, Backend, Architecture, Mobile, UI/UX (13 skills)
+- 🤖 AI/ML Engineering: LLM Engineering, Agents, Data Science, ML Ops (8 skills)
+- ⚙️ DevOps & Platform: Kubernetes, Database, Document Automation (6 skills)
+- ✅ Quality & Testing: Code Review, Testing, Debugging, Refactoring (6 skills)
+- 📚 Documentation: API Design, Technical Writing, Codebase Audit (3 skills)
+
+**Codex Kit** - Router-based intelligent agent dispatch system
+- Task classification and context injection
+- Multi-agent workflow orchestration
+- Pattern-based routing rules
+
+**Gemini Kit** - Platform-optimized router with multimodal support
+- Gemini-specific prompt adaptations
+- Extended context window utilization
+
+#### 🤖 Custom GPT Agent Portfolio (40+ Production Agents)
+
+**Fintech/Compliance** (Internal - Altery)
+- KYB Translator, Hawkeye FinCrime, RegLens Regulatory
+- Expansion Horizon Scanning, Marketing Researcher
+- Customer Support, Mobile App Updates, Tech Writer
+
+**Public Agent Categories:**
+- **Programming** (5): AI Agents Builder, LLM Engineer, Data Scientist, PRD Architect, SQL-DevOps
+- **Productivity** (5): Prompt Engineer, Product Coach, Negotiator, Contract Crusher, SMMA
+- **Education** (3): English Tutor, UK Tax Adviser, Life in the UK
+- **Lifestyle** (7): Fitness Buddy, DietGPT, Sleep Coach, ChildBridge, Pet Whisperer, CineMatch, ReelRecipe
+- **Research** (3): AI Strategist, Startup Consultant, Strategy Consultant
+- **Writing** (2): AI Text Humaniser, FAANG Resume Coach
+
+**Features:**
+- Master Template v3.5 with 13-section framework
+- Platform-specific optimization (ChatGPT 8000 char, Claude 200k tokens)
+- Token optimization (10-13% reduction techniques)
+- Cross-platform deployment (ChatGPT, Claude, Codex, Gemini)
 
 ### Fintech Platform Infrastructure
 - Multi-currency card issuing platform (GBP, USD, EUR)
