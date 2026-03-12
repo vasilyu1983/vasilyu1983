@@ -1,188 +1,142 @@
-# Hi, I'm Vasiliy 👋
+# Vasiliy Uvarov
 
-## I architect AI-powered fintech systems where regulated finance meets LLM automation.
+## Builder. Shipping AI products where fintech regulation meets LLM automation.
 
-Chief Data & AI Officer at **Altery** | 20+ years across TradFi & Crypto Rails | Built 40+ production AI agents
+<div align="center">
 
----
+[![AEO Platform](https://img.shields.io/badge/🔍_AEO_Platform-Live-00C853?style=for-the-badge)](https://www.aeo-platform.com)
+[![Cosmic Copilot](https://img.shields.io/badge/✨_Cosmic_Copilot-Live-7C4DFF?style=for-the-badge)](https://www.cosmic-copilot.com)
+[![AI Agents](https://img.shields.io/badge/🤖_AI_Agents-Open_Source-2196F3?style=for-the-badge)](https://github.com/vasilyu1983/AI-Agents-public)
 
-### About Me
+</div>
 
-🤖 **Current Role:** Chief Data & AI Officer at [Altery](https://www.altery.com) (promoted from CPO, Jun 2025)
-🏦 **Domain:** Tech × Finance × Business operator bridging TradFi, crypto rails, and LLM-powered automation
-💼 **Background:** Ex-banking tech head (Otkritie, Sberbank, VTB) running £100M+ portfolios and 230+ FTE orgs
-🎓 **Education:** MSc Computer Engineering (Bauman MSTU) + BSc Finance
-🌍 **Location:** London, UK | Open to remote-first roles
+CDAIO at [Altery](https://www.altery.com) · 20 yrs TradFi + Crypto Rails · Shipping AI-native products
 
-**Operating Style:** Disruptor-Strategist. Systems thinker who scales fast, destroys friction by default, and demands signal over noise.
-
----
-
-### Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasiliyuvarov)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vasilyu)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=safari&logoColor=white)](https://www.ym8.co.uk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasilyu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasiliyuvarov)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/vasilyu)
+[![Website](https://img.shields.io/badge/ym8.co.uk-FF7139?style=flat-square&logo=safari&logoColor=white)](https://www.ym8.co.uk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vasilyu@gmail.com)
 
 ---
 
-## What I Build 🛠️
+## Live Products
 
-### Production AI Agent Portfolio (40+ agents)
+### 🔍 [AEO Platform](https://www.aeo-platform.com) — AI Visibility for Brands
 
-**Altery (Fintech Operations)**
+How AI engines mention, cite, and rank your brand — then what to fix.
 
-- 🦅 **Hawkeye FinCrime Prevention** - Dual-jurisdiction (UK/EU-CY) AML/CTF, sanctions, fraud horizon scanning; delivers policy comparisons and regulator-tagged action lists
-- 📋 **RegLens Regulatory Analyst** - UK & EU/Cyprus EMI policy reviews with gap tables, remediation steps, and audit-ready documentation
-- 🔍 **KYB Translator** - GPT + Google Apps Script; auto-translates multi-language KYB docs with UBO extraction, shareholder tables, Universal Document Payload schema
-- 🎯 **KYB Analyst** - AML/CFT risk assessments and second opinions for business onboarding with evidence-backed recommendations
-- 🔭 **Expansion Horizon Scanning** - Global EMI/crypto licensing intelligence with risks, opportunities, and regulatory workarounds
-- 📊 **Marketing Researcher** - Market sizing, competitor scans, scorecards, and entry plans (UK-focused EMI/Crypto)
-- 📈 **Metabase Buddy** - Converts plain-English asks to MBQL/GUI steps; outputs ready-to-paste SQL (cut dashboard creation from days to minutes)
-- 💬 **Customer Support Specialist** - On-brand, policy-compliant support drafting with macro and help-center integration
-- 📱 **Mobile App Updates** - Monitors App/Play Store releases; produces concise markdown summaries and version comparisons
-- 👔 **JD Assistant** - Transforms free-form job descriptions into strict JSON; auto-fills Google Doc templates via OAuth
-- 📝 **Tech Writer** - Technical docs, release notes, explainers, and on-brand marketing copy with citations
-- 🔒 **Policy Reviewer** - Forensic EMI policy review with verbatim quotes, regulatory citations, gap detection, gold-plating analysis
-- 🏢 **Business Process Analysis Tool (BPAT)** - Vendor/subprocess assessments against 3rd-party management frameworks
-- 🔐 **Data Protection Impact Assessment (DPIA)** - Research-first DPIA extracting vendor data flows from Privacy Notices/DPAs
-- 🚀 **SmartDeploy Framework** - Multi-agent framework for EMI/PI and VASP/CASP market entry planning
+Tracks **8 AI engines** (ChatGPT, Google AI Overviews, Gemini, Perplexity, Claude, Copilot, DeepSeek, Google AI Mode). Audit-first workflow: diagnose crawler issues, schema gaps, and weak content → fix packs → recheck → monitor.
 
-**Programming (AI/ML Engineering)**
+**Audit → Fix → Monitor → Win citations.**
 
-- 🤖 **[Elite AI-Agent Architect](https://chatgpt.com/g/g-6838aad931388191b34154e0beced9de-ai-agents-builder-production-architect)** - Production-grade AI agents with guardrails, evaluation, CI/CD; reduces time-to-production
-- 🧠 **[Elite LLM Engineer](https://chatgpt.com/g/g-68611cf615b881919ffbca27dc3002a7-llm-engineer-build-ship-models)** - End-to-end LLM lifecycle (design, fine-tune, eval, secure, deploy) with Python-first outputs
-- 📊 **[Elite Data Science Engineer](https://chatgpt.com/g/g-6839a31378048191a9f2a866b0895ecf-production-data-science-engineer)** - Reproducible EDA→modeling→explainability→deployment with metrics and artifacts
-- 📋 **[PRD Architect](https://chatgpt.com/g/g-67ca1fe2d5ac8191af286f3ab2858a0e-prd-gpt-tech-spec-generator)** - Crafts and validates PRDs/tech specs with diffs, metrics, and risks for vibe coding
-- 🔧 **[Elite SQL-DevOps Engineer](https://chatgpt.com/g/g-67e7dce5839481919ab7d10d49044554-sql-devops-pro-databases-iac-ci-cd)** - SQL tuning, schema design, IaC, Kubernetes, CI/CD, monitoring
-
-**Productivity (Business Tools)**
-
-- ⚡ **[Prompt Engineer](https://chatgpt.com/g/g-67ca1efbe27881918811e5afc17acb8f-prompt-engineer-audit-optimize-prompts)** - Crafts, stress-tests, and grades production prompts; Custom GPT (8000 char) and Claude (artifacts) versions
-- 💼 **[Product Coach+](https://chatgpt.com/g/g-681e09ab6d5c8191bd007ce7c0fd2f59-product-coach-roadmaps-retention-results)** - Direct, narrative-first coaching across discovery→delivery→GTM→metrics
-- 🤝 **[The Negotiator](https://chatgpt.com/g/g-67dd1f4ac784819197936a67ee158718-negotiation-coach-salary-saas-conflict)** - High-stakes strategy, BATNA/ZOPA analysis, role-plays, and deal simulations
-- 📄 **[Contract Crusher](https://chatgpt.com/g/g-686be2cb79bc8191aec03967f6d853cd-contract-crusher-uk-contract-review-drafting)** - Drafts, reviews, negotiates B2B terms; flags hidden risks and proposes balanced redlines
-- 📱 **[SMMA Strategist+](https://chatgpt.com/g/g-67dac9bcf088819199337b87a5b39ed3-smma-growth-paid-social-campaign-pro)** - Growth blueprints, calendars, ads, audits, KPI reports for social media agencies
-
-**Education (Learning & Certification)**
-
-- 🎓 **[English Fluency Coach+](https://chatgpt.com/g/g-67cb0da5a97481919800ea9e0059c8f2-ielts-fluency-coach-speaking-writing)** - Conversational English tutor for fluency, pronunciation (IPA), idioms, IELTS drills
-- 🇬🇧 **[Life-in-the-UK Coach+](https://chatgpt.com/g/g-68029807a5d88191810952305fabff2c-life-in-the-uk-test-coach)** - Test-prep coach with quizzes, flashcards, and targeted revision
-- ⚖️ **[UK Legal & Tax Adviser+](https://chatgpt.com/g/g-67ea4189d47c819193f1aa0de4b66019-uk-tax-and-legal-adviser-25)** - Plain-English explainer of UK law and HMRC rules with thresholds, forms, examples
-
-**Lifestyle (Personal Wellness)**
-
-- 🏥 **AI GP** - Simulated primary-care consult with triage, red-flags, differential diagnosis, SOAP summaries
-- 💪 **[Fitness Buddy](https://chatgpt.com/g/g-67e8703476e081918e9ad821714e4b19-fitness-buddy-fat-loss-alcohol-free-coach)** - Evidence-based coaching for fat loss, strength, mobility, alcohol-free living with weekly plans
-- 🍽️ **[DietGPT](https://chatgpt.com/g/g-68b8a2b584d88191b7ebce822e426d53-dietgpt-smart-recipes-for-real-life)** - Healthy recipes and meal plans, including kidney-stone/oxalate-aware adaptations
-- 😴 **[Sleep Consultant+](https://chatgpt.com/g/g-67d28f9117308191b1901fe3a144ba99-sleep-coach)** - CBT-I, circadian resets, environment optimization for insomnia and jet lag
-- 👶 **[ChildBridge+](https://chatgpt.com/g/g-681e35edab64819184aa960577a667b6-childbridge-behavior-scripts-for-parents)** - Translates child behavior into needs; offers scripts, micro-routines, conflict de-escalation
-- 🐾 **[Pet Whisperer GPT](https://chatgpt.com/g/g-686be988a2e881919a0851355aef68ed-pet-behavior-fixer-dogs-cats-parrots)** - Behaviorist-style guidance with mode switching (Behaviorist, VetTech, TrainingCoach)
-- 🎬 **[CineMatch](https://chatgpt.com/g/g-6900db93beb081918779fac6cbb7cb19-cinematch-smart-movie-series-picks)** - Film-intelligence engine with 2024-2025 recency focus; 66 sources including Russian streaming platforms
-- ✨ **[CosmicGPT](https://chatgpt.com/g/g-6835cd10d8cc81918ae97e3cb0f64f86-cosmicgpt-decode-your-chart-numbers-dreams)** - Symbolic readings across Western/Vedic astrology, numerology, dreams, lunar cycles
-- 📹 **[ReelRecipe GPT](https://chatgpt.com/g/g-686be72cad248191a225b7173ddbc1b1-reelrecipe-hooks-scripts-retention)** - Viral short-form script doctor for TikTok, Reels, Shorts; retention-first creative
-
-**Research & Analysis (Strategy)**
-
-- 🎯 **[AI Strategic Visioner](https://chatgpt.com/g/g-683db0cef7e881919d1b5fc0435975d1-ai-strategy-roadmap-maturity-coach)** - Maturity assessment → 3-phase roadmaps → AI culture ignition with KPI pillars
-- 🚀 **[Startup Consultant+](https://chatgpt.com/g/g-67d83ecb9d44819182f90046099c3544-startup-consultant-validate-plan-mvps)** - Validates ideas, drafts 10-slide pitches, designs no-code MVPs, benchmarks competitors
-- 📊 **[Strategy Consultant+](https://chatgpt.com/g/g-67ca1fe2d5ac8191af286f3ab2858a0e-strategy-consultant-fintech-saas-gtm)** - KPI-backed strategic plans with PESTEL, Porter, JTBD, GTM, execution roadmaps
-
-**Writing (Content & Career)**
-
-- ✍️ **[AI Text Humaniser](https://chatgpt.com/g/g-68b46a7c29c88191bf10788b98fe804d-ai-text-humaniser-humanize-ai-writing)** - Rewrites LLM text to sound natural, varied, convincingly human; removes AI "tells"
-- 📝 **[Resume Forge](https://chatgpt.com/g/g-67fe23d1d7048191b8a504170a5e5d5b-faang-resume-interview-coach-ats-star)** - Impact-first résumés, ATS-optimization, MAANG interview/system-design coaching
+`Next.js` `Supabase` `Python` `Answer Engine Optimization`
 
 ---
 
-## Tech & AI Stack 💻
+### ✨ [Cosmic Copilot](https://www.cosmic-copilot.com) — AI Astrology, Chart-Accurate
 
-### AI/LLM Technologies
+Daily guidance from your real birth chart — not generic sun-sign horoscopes.
+
+Astronomy-grade VSOP87 ephemeris (±0.1° precision). 10 house systems, 14 languages. Daily Do/Don't lists from active transits, year-ahead forecasts, compatibility, astrocartography, dream interpretation.
+
+**5,000+ conversations · 99.99% accuracy vs astro.com · 14 languages**
+
+`Next.js` `TypeScript` `Supabase` `Ephemeris Calculations`
+
+---
+
+## Open Source: AI Agents Library
+
+**[vasilyu1983/AI-Agents-public](https://github.com/vasilyu1983/AI-Agents-public)** — 28 Custom GPT agents + 62 AI coding agent skills
+
+### 62 Skills for Claude Code / Codex CLI / Gemini CLI
+
+Drop into `.claude/skills/` or `.codex/skills/`. Follows the [Agent Skills spec](https://agentskills.io/specification).
+
+| Domain | Count | Highlights |
+|--------|------:|------------|
+| Software Development | 13 | Frontend, Backend, C#/.NET, Mobile, Architecture, Security, Payments, Crypto |
+| Quality & Testing | 13 | Playwright, iOS/Android, NUnit, Debugging, Observability, Resilience |
+| AI/ML Engineering | 8 | LLMs, Agents, RAG, MLOps, Inference, Prompt Engineering |
+| Developer Tools | 8 | API Design, Git Workflow, Dependencies, Structured Logs |
+| Agents & Orchestration | 6 | Subagents, Hooks, MCP, Project Memory, Swarm |
+| Data | 4 | Analytics Engineering, Data Lake, SQL, Metabase |
+| Docs & Formats | 6 | PRDs, Codebase Docs, PDF/DOCX/XLSX/PPTX |
+| Ops + Product | 4 | DevOps, NUKE CI/CD, Product Management, Help Center |
+
+### 28 Public Custom GPT Agents
+
+Every agent follows a 3-file pattern (`01_prompt.md` + `sources.json` + `config.yaml`) optimized for 8000 char Custom GPT limit.
+
+**[Programming](https://github.com/vasilyu1983/AI-Agents-public/tree/main/custom-gpt/programming)** — AI Agents Builder · LLM Engineer · Data Scientist · PRD Architect · SQL-DevOps
+**[Productivity](https://github.com/vasilyu1983/AI-Agents-public/tree/main/custom-gpt/productivity)** — Prompt Engineer · Product Coach · Negotiator · Contract Crusher · SMMA
+**[Lifestyle](https://github.com/vasilyu1983/AI-Agents-public/tree/main/custom-gpt/lifestyle)** — Fitness Buddy · DietGPT · Sleep Coach · ChildBridge · Pet Whisperer · CineMatch · ReelRecipe
+**[Education](https://github.com/vasilyu1983/AI-Agents-public/tree/main/custom-gpt/education)** — English Tutor · UK Tax Adviser · Life in the UK
+**[Research](https://github.com/vasilyu1983/AI-Agents-public/tree/main/custom-gpt/research-n-analysis)** — AI Strategist · Startup Consultant · Strategy Consultant
+**[Writing](https://github.com/vasilyu1983/AI-Agents-public/tree/main/custom-gpt/writing)** — AI Text Humaniser · FAANG Resume Coach
+
+---
+
+## Altery — 15 Internal AI Agents in Production
+
+As CDAIO at [Altery](https://www.altery.com) (EMI/FinTech), I built and run 15 production agents powering compliance, operations, and customer-facing workflows:
+
+🦅 **Hawkeye** — AML/CTF horizon scanning (UK + EU-CY dual jurisdiction)
+📋 **RegLens** — Regulatory policy reviews with gap tables and remediation
+🔍 **KYB Translator** — Auto-translates multi-language KYB docs with UBO extraction (GPT + Google Apps Script)
+🎯 **KYB Analyst** — AML/CFT risk assessments for business onboarding
+📈 **Metabase Buddy** — Plain English → MBQL/SQL (cut dashboard creation from days to minutes)
+🔒 **Policy Reviewer** — Forensic policy review with verbatim quotes and regulatory citations
+🚀 **SmartDeploy** — Multi-agent framework for EMI/VASP market entry planning
+💬 **Customer Support** · 📱 **Mobile App Updates** · 👔 **JD Assistant** · 📝 **Tech Writer** · 🔐 **DPIA** · 🏢 **BPAT** · 🔭 **Expansion Scanner** · 📊 **Marketing Researcher**
+
+---
+
+## Stack
+
+### AI/LLM
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=white)
 ![Codex CLI](https://img.shields.io/badge/Codex_CLI-FF6B6B?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
 
-**Expertise:** GPT API Integration, Prompt Engineering, RAG, Agent Orchestration, Vector DBs, Custom GPTs, N8N Workflows
+GPT API · Prompt Engineering · RAG · Agent Orchestration · Vector DBs · Custom GPTs · N8N Workflows
 
-### Development Stack
+### Code
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-### Data & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+### Infrastructure
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-### Fintech & Compliance
-- **Payments:** Visa/UnionPay Principal Memberships, Multi-currency Card Issuing, Crypto Rails (TON/USDT)
-- **Compliance:** KYC/AML/KYB/KYT Automation, Travel Rule, MiCA, DFSA Licensing
-- **Banking:** Core Banking (C#/.NET), SME Lending Platforms, IBM BPM, FICO Origination
-
-### AI Development Tools
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=visual-studio-code&logoColor=white)
+### AI Dev Tools
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=visual-studio-code&logoColor=white)
 ![V0](https://img.shields.io/badge/V0-000000?style=flat&logo=vercel&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
+
+### Fintech
+**Payments:** Visa/UnionPay Principal Memberships · Multi-currency Card Issuing · Crypto Rails (TON/USDT)
+**Compliance:** KYC/AML/KYB/KYT Automation · Travel Rule · MiCA · DFSA
+**Banking:** Core Banking (C#/.NET) · SME Lending · IBM BPM · FICO Origination
 
 ---
 
-## Key Projects & Contributions 🚀
+### Background
 
-### 🎯 AI Agents Library - Production AI Development Ecosystem
-**[vasilyu1983/AI-Agents-public](https://github.com/vasilyu1983/AI-Agents-public)** - 28 Custom GPT agents and 62 AI coding agent skills for Claude Code, Codex CLI, and Gemini CLI
-
-#### 📦 Shared Skills (62 Production-Ready)
-
-Platform-agnostic skills following the [Agent Skills specification](https://agentskills.io/specification). Drop into `.claude/skills/`, `.codex/skills/`, or `.gemini/skills/`.
-
-- 🏗️ Software Development (13): Frontend, Backend, C#/.NET, Mobile, Architecture, Security, Payments, Crypto
-- 🤖 AI/ML Engineering (8): LLMs, Agents, RAG, MLOps, Data Science, Inference, Prompt Engineering
-- ✅ Quality & Testing (13): Playwright, iOS/Android, NUnit, Debugging, Observability, Resilience
-- 🔧 Developer Tools (8): API Design, Git Workflow, Dependency Management, Structured Logs
-- 🤝 Agents & Orchestration (6): Subagents, Hooks, MCP Servers, Project Memory, Swarm Orchestration
-- 📊 Data (4): Analytics Engineering, Data Lake, SQL Optimization, Metabase
-- 📚 Documentation & Formats (6): PRDs, Codebase Docs, PDF/DOCX/XLSX/PPTX
-- ⚙️ Operations (2): DevOps Platform, NUKE CI/CD
-- 📋 Product (2): Product Management, Help Center
-
-#### 🤖 Custom GPT Agent Portfolio
-
-**28 public agents** across 6 categories, plus internal fintech/compliance agents:
-
-- **Programming** (5): AI Agents Builder, LLM Engineer, Data Scientist, PRD Architect, SQL-DevOps
-- **Productivity** (5): Prompt Engineer, Product Coach, Negotiator, Contract Crusher, SMMA
-- **Education** (3): English Tutor, UK Tax Adviser, Life in the UK
-- **Lifestyle** (7): Fitness Buddy, DietGPT, Sleep Coach, ChildBridge, Pet Whisperer, CineMatch, ReelRecipe
-- **Research** (3): AI Strategist, Startup Consultant, Strategy Consultant
-- **Writing** (2): AI Text Humaniser, FAANG Resume Coach
-
-**Features:**
-- Master Template v3.5 with 13-section framework
-- Platform-specific optimization (ChatGPT 8000 char, Claude 200k tokens)
-- Cross-platform deployment (ChatGPT, Claude, Codex, Gemini)
-
-### Fintech Platform Infrastructure
-- Multi-currency card issuing platform (GBP, USD, EUR)
-- Crypto-to-fiat ramps (<60s settlement)
-- Open Banking integrations (Plaid)
-- Smart FX routing and payout rails (10+ markets)
-
-### Data & Analytics
-- Metabase migration (deprecated Looker, MS Reporting, Excel)
-- Real-time dashboards driving OKR reviews
+🎓 MSc Computer Engineering (Bauman MSTU) + BSc Finance
+💼 Ex-banking tech head (Otkritie, Sberbank, VTB) — £100M+ portfolios, 230+ FTE orgs
+🌍 London, UK
 
 ---
 
 <div align="center">
-
-**💡 "I don't optimize noise — I re-architect signal."**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vasilyu1983&color=blueviolet&style=flat-square&label=Profile+Views)
 
