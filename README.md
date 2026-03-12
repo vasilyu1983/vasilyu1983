@@ -136,34 +136,26 @@ Chief Data & AI Officer at **Altery** | 20+ years across TradFi & Crypto Rails |
 ## Key Projects & Contributions 🚀
 
 ### 🎯 AI Agents Library - Production AI Development Ecosystem
-**[vasilyu1983/AI-Agents-public](https://github.com/vasilyu1983/AI-Agents-public)** - Complete AI development ecosystem with 40+ Custom GPT agents and 36+ Claude Code skills
+**[vasilyu1983/AI-Agents-public](https://github.com/vasilyu1983/AI-Agents-public)** - 28 Custom GPT agents and 62 AI coding agent skills for Claude Code, Codex CLI, and Gemini CLI
 
-#### 📦 Development Frameworks (Copy-Paste Ready)
+#### 📦 Shared Skills (62 Production-Ready)
 
-**Claude Code Kit** - Complete `.claude/` workspace with 36 production-ready skills
-- 🏗️ Software Development: Frontend, Backend, Architecture, Mobile, UI/UX (13 skills)
-- 🤖 AI/ML Engineering: LLM Engineering, Agents, Data Science, ML Ops (8 skills)
-- ⚙️ DevOps & Platform: Kubernetes, Database, Document Automation (6 skills)
-- ✅ Quality & Testing: Code Review, Testing, Debugging, Refactoring (6 skills)
-- 📚 Documentation: API Design, Technical Writing, Codebase Audit (3 skills)
+Platform-agnostic skills following the [Agent Skills specification](https://agentskills.io/specification). Drop into `.claude/skills/`, `.codex/skills/`, or `.gemini/skills/`.
 
-**Codex Kit** - Router-based intelligent agent dispatch system
-- Task classification and context injection
-- Multi-agent workflow orchestration
-- Pattern-based routing rules
+- 🏗️ Software Development (13): Frontend, Backend, C#/.NET, Mobile, Architecture, Security, Payments, Crypto
+- 🤖 AI/ML Engineering (8): LLMs, Agents, RAG, MLOps, Data Science, Inference, Prompt Engineering
+- ✅ Quality & Testing (13): Playwright, iOS/Android, NUnit, Debugging, Observability, Resilience
+- 🔧 Developer Tools (8): API Design, Git Workflow, Dependency Management, Structured Logs
+- 🤝 Agents & Orchestration (6): Subagents, Hooks, MCP Servers, Project Memory, Swarm Orchestration
+- 📊 Data (4): Analytics Engineering, Data Lake, SQL Optimization, Metabase
+- 📚 Documentation & Formats (6): PRDs, Codebase Docs, PDF/DOCX/XLSX/PPTX
+- ⚙️ Operations (2): DevOps Platform, NUKE CI/CD
+- 📋 Product (2): Product Management, Help Center
 
-**Gemini Kit** - Platform-optimized router with multimodal support
-- Gemini-specific prompt adaptations
-- Extended context window utilization
+#### 🤖 Custom GPT Agent Portfolio
 
-#### 🤖 Custom GPT Agent Portfolio (40+ Production Agents)
+**28 public agents** across 6 categories, plus internal fintech/compliance agents:
 
-**Fintech/Compliance** (Internal - Altery)
-- KYB Translator, Hawkeye FinCrime, RegLens Regulatory
-- Expansion Horizon Scanning, Marketing Researcher
-- Customer Support, Mobile App Updates, Tech Writer
-
-**Public Agent Categories:**
 - **Programming** (5): AI Agents Builder, LLM Engineer, Data Scientist, PRD Architect, SQL-DevOps
 - **Productivity** (5): Prompt Engineer, Product Coach, Negotiator, Contract Crusher, SMMA
 - **Education** (3): English Tutor, UK Tax Adviser, Life in the UK
@@ -174,7 +166,6 @@ Chief Data & AI Officer at **Altery** | 20+ years across TradFi & Crypto Rails |
 **Features:**
 - Master Template v3.5 with 13-section framework
 - Platform-specific optimization (ChatGPT 8000 char, Claude 200k tokens)
-- Token optimization (10-13% reduction techniques)
 - Cross-platform deployment (ChatGPT, Claude, Codex, Gemini)
 
 ### Fintech Platform Infrastructure
