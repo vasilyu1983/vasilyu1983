@@ -13,7 +13,7 @@
 
 CAIDO at [Altery](https://www.altery.com) · 20 yrs TradFi + Crypto rails · Bauman MSTU (First Class) · London · UK Global Talent Visa
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasiliyuvarov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasiliy-uvarov)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/vasilyu)
 [![Website](https://img.shields.io/badge/ym8.co.uk-FF7139?style=flat-square&logo=safari&logoColor=white)](https://www.ym8.co.uk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vasilyu@gmail.com)
@@ -104,7 +104,7 @@ Underneath: a **135-repo coordination layer** cataloguing 581 API routes across 
 
 > **Philosophy:** Ship fast, comply hard. Re-architect signal, not noise.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/vasiliy-uvarov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasiliy-uvarov)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/vasilyu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vasilyu@gmail.com)
 
