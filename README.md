@@ -104,7 +104,7 @@ Underneath: a **135-repo coordination layer** cataloguing 581 API routes across 
 
 > **Philosophy:** Ship fast, comply hard. Re-architect signal, not noise.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasili-yuvarov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/vasiliy-uvarov)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/vasilyu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vasilyu@gmail.com)
 
