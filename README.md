@@ -1,183 +1,111 @@
 # Vasiliy Uvarov
 
-> Shipping AI compliance agents by day, astrology engines by night. 220+ skills built · 64 open-sourced.
+> **Six months. One author. 948,825 lines of code.**
+> AI Engineer & CAIDO. I ship production agentic systems in regulated fintech — and I still write the code.
 
 <div align="center">
 
 [![AEO Platform](https://img.shields.io/badge/🔍_AEO_Platform-Live-00C853?style=for-the-badge)](https://www.aeo-platform.com)
 [![Cosmic Copilot](https://img.shields.io/badge/✨_Cosmic_Copilot-Live-7C4DFF?style=for-the-badge)](https://www.cosmic-copilot.com)
-[![AI Agents](https://img.shields.io/badge/🤖_AI_Agents-Open_Source-2196F3?style=for-the-badge)](https://github.com/vasilyu1983/AI-Agents-public)
+[![AI Agents (public)](https://img.shields.io/badge/🤖_AI_Agents-Open_Source-2196F3?style=for-the-badge)](https://github.com/vasilyu1983/AI-Agents-public)
 
 </div>
 
-CDAIO at [Altery](https://www.altery.com) · 20 yrs TradFi + Crypto Rails · London
+CAIDO at [Altery](https://www.altery.com) · 20 yrs TradFi + Crypto rails · Bauman MSTU (First Class) · London · UK Global Talent Visa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasiliyuvarov)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/vasilyu)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/vasilyu)
 [![Website](https://img.shields.io/badge/ym8.co.uk-FF7139?style=flat-square&logo=safari&logoColor=white)](https://www.ym8.co.uk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vasilyu@gmail.com)
 
 ---
 
-## What I'm Doing Now
+## The Receipt — Last 6 Months, Solo
 
-- **AEO Platform** — Building AI visibility monitoring for brands across 8 AI engines. Launched, growing.
-- **Altery AI agents** — Running 30 production agents (23 Custom GPTs + 7 Agent SDK apps) across compliance, KYB, ops, and customer workflows at a regulated EMI.
-- **AI Skills Library** — 220+ coding agent skills and 30 Custom GPT agents in a private framework; 64 skills + 28 agents open-sourced in [AI-Agents-public](https://github.com/vasilyu1983/AI-Agents-public). Shipping weekly.
-- **Cosmic Copilot** — AI astrology from real birth charts, not sun-sign horoscopes. 14 languages, VSOP87 ephemeris.
-- **Prime** — Consulting on real estate tech for a London-based residential property platform.
+> Most of my work lives in private repos. Here's the verifiable telemetry.
 
----
+| Repo | Code LOC | Commits | Last 90d | Stack |
+|---|---:|---:|---:|---|
+| cosmic-swift _(iOS)_ | 353,212 | 675 | 587 | SwiftUI · Swift · 1,004 files |
+| cosmic-copilot _(web)_ | 323,249 | 857 | 427 | Next.js · TS · Supabase · Stripe · OpenAI + Anthropic |
+| aeo-platform | 134,178 | 109 | 83 | Next.js · Supabase · OpenAI + Anthropic |
+| prime-legacy-homes | 30,002 | 76 | 19 | Next.js · Tailwind · next-intl |
+| qaccountants-platform | 23,645 | 1,176 | 67 | NestJS monorepo · Prisma |
+| cosmic-landing | 40,828 | 122 | 48 | Next.js · next-intl |
+| aeo-landing | 24,040 | 11 | 11 | Next.js · Tailwind |
+| qaccountants | 17,808 | 101 | 74 | Next.js · Supabase · PostHog |
+| altery-requirements-hub | 1,863 | 109 | 108 | Markdown / docs hub |
+| **Total** | **948,825** | **3,236** | **1,424** | One author on every repo |
 
-## Live Products
-
-🔍 **AEO Platform** — AI visibility monitoring: how 8 AI engines mention, cite, and rank your brand.
-[aeo-platform.com](https://www.aeo-platform.com)
-
-✨ **Cosmic Copilot** — Chart-accurate AI astrology. VSOP87 ephemeris at ±0.1° precision, 14 languages.
-[cosmic-copilot.com](https://www.cosmic-copilot.com)
-
-🌐 **YM8** — Personal site and AI agents showcase.
-[ym8.co.uk](https://www.ym8.co.uk)
-
-🏠 **Prime** — London residential real estate platform.
+**That's ~16 commits/day, solo, while running a full-time C-level job.** Methodology: `find + wc -l` excluding `node_modules`, `.next`, `Pods`, `DerivedData`, `build`, `dist`, lockfiles. Read access on request for recruiters and serious inbound.
 
 ---
 
-## Open Source: AI Agents Library
+## Live Products (Built and Run Solo)
 
-**[vasilyu1983/AI-Agents-public](https://github.com/vasilyu1983/AI-Agents-public)** — 28 Custom GPT agents + 64 AI coding skills (curated subset of a larger private framework)
+🔍 **[AEO Platform](https://www.aeo-platform.com)** — AI-search-visibility engine. Queries Google AI Overviews, ChatGPT, Perplexity, and Claude. Detects hallucinations, citation drift, and source-attribution gaps. _Paying users. 134K LOC._
 
-| Domain | Agents |
-|--------|-------:|
-| Programming | 5 |
-| Productivity | 8 |
-| Lifestyle | 7 |
-| Education | 3 |
-| Research & Analysis | 3 |
-| Writing | 2 |
+✨ **[Cosmic Copilot](https://www.cosmic-copilot.com)** — Chart-accurate AI astrology. **VSOP87 ephemeris at ±0.1° precision.** 14 languages (~201K words via parallel agents). Native iOS + web, same product, ~676K LOC combined.
 
-Skills drop into `.claude/skills/` or `.codex/skills/`. Follows the [Agent Skills spec](https://agentskills.io/specification).
+🌐 **[YM8](https://www.ym8.co.uk)** — Personal site + AI agents showcase.
 
-<details>
-<summary>Full agent list by domain</summary>
-
-**Programming** — AI Agents · DS · LLM · PRD · SQL-DevOps
-**Productivity** — AI Fluency Coach · Contract Crusher · Lead-generation · Negotiation Coach · Product Coach · Prompt Engineer · SEO Auditor · SMM Assistant
-**Lifestyle** — ChildBridge · CineMatch · DietGPT · Fitness Buddy · Pets · ReelRecipe · Sleep Coach
-**Education** — English Tutor · UK Tax & Legal Adviser · Life in the UK
-**Research & Analysis** — AI Strategist · Startup Consultant · Strategy Consultant
-**Writing** — AI Text Humaniser · FAANG Interview & Career Coach
-
-</details>
+🏠 **Prime Legacy Homes** — London residential real-estate platform.
 
 ---
 
-## Altery — Production AI Agents
+## Open Source — AI Agents Library
 
-CDAIO at [Altery](https://www.altery.com) (EMI/FinTech). Built and run 30 production agents (23 Custom GPTs + 7 Agent SDK apps) across compliance, operations, engineering, and customer workflows.
+**[vasilyu1983/AI-Agents-public](https://github.com/vasilyu1983/AI-Agents-public)** — public slice of a **192-skill production library across 14 domains** with **6-router orchestration**. Skills drop into `.claude/skills/` or `.codex/skills/`. Follows the [Agent Skills spec](https://agentskills.io/specification).
 
-🦅 **Hawkeye** — AML/CTF horizon scanning across UK + EU-CY jurisdictions
-📋 **RegLens** — Regulatory policy review with gap tables and remediation plans
-🔍 **KYB Translator** — Auto-translates multi-language KYB docs with UBO extraction
+Notable families:
+- **`ai-coding-agents-*` (12 skills)** — sessions, sandbox, permissions, plugins, observability/evals, terminal UI, remote runtime, command runtime, provider runtime, tools, tasks, release/distribution. Patterns for building durable coding agents.
+- **`agents-swarm-orchestration`** — dependency-aware parallel subagents with verifier passes. Used in live operation: **493 sub-agent dispatches, 131 parallel overlaps in a single month**, 73% goal-achievement.
+- **`foundations-game-theory` + `foundations-decision-theory`** — agent design primitives. Escalation as Stackelberg games, verifier-builder pairs as repeated games, tool selection as bounded-rational decision under uncertainty.
+
+---
+
+## Altery — 30 Production Agents Across 8 Departments
+
+CAIDO at [Altery](https://www.altery.com) (UK EMI / FinTech). Built and operate **30 production agents** spanning compliance, ops, customer workflows, engineering, and data.
+
+🦅 **Hawkeye** — AML/CTF horizon scanning, UK + EU-CY jurisdictions
+📋 **RegLens** — Regulatory policy review with gap tables + audit-ready remediation
+🔍 **KYB Translator** — Multi-language KYB doc translation with UBO extraction
 🎯 **KYB Analyst** — AML/CFT risk assessments for business onboarding
-📈 **Metabase Buddy** — Plain English → SQL/MBQL (dashboards in minutes, not days)
-🔒 **Policy Reviewer** — Forensic policy review with verbatim quotes and regulatory citations
+📈 **Metabase Buddy** — Plain English → SQL/MBQL, dashboards in minutes
+🔒 **Policy Reviewer** — Forensic review with verbatim quotes and regulatory citations
+🛠️ **SmartDeploy · Customer Support · Mobile App Updates · Tech Writer · JD Assistant · DPIA · BPAT · Expansion Scanner · Marketing Researcher** _+ 15 more_
 
-+ 24 more across compliance, ops, engineering, support, and strategy domains: SmartDeploy · Customer Support · Mobile App Updates · Tech Writer · JD Assistant · DPIA · BPAT · Expansion Scanner · Marketing Researcher · and Agent SDK apps for KYB, regulatory scanning, data access, and product/engineering support.
-
-**Key metrics:** Verified user base 30× (161 → 4,895), 1 → 72 corporate accounts in 10 months, €13M+ monthly volume.
+Underneath: a **135-repo coordination layer** cataloguing 581 API routes across 43 services, 545 documented regulatory gaps across 12 domains, README coverage 123/135, AGENTS.md 17/135.
 
 ---
 
-<details>
-<summary>Tech Stack</summary>
+## Stack — Daily, Production
 
-### AI/LLM
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=flat&logo=anthropic&logoColor=white)
-![Google GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=flat&logo=google&logoColor=white)
-
-RAG · Custom GPTs · N8N · Agent Orchestration
-
-### Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-
-### Data & Infrastructure
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
-
-### Payments & Analytics
-
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-F9BD2B?style=flat&logo=posthog&logoColor=black)
-![Resend](https://img.shields.io/badge/Resend-000000?style=flat&logo=resend&logoColor=white)
-
-### Web3
-
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-
-Wagmi · Viem · Jupiter DEX
-
-### Testing
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-
-### AI Dev Tools
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![V0](https://img.shields.io/badge/V0-000000?style=flat&logo=vercel&logoColor=white)
-
-### Fintech
-
-**Payments:** Visa/UnionPay Principal Memberships · Multi-currency Card Issuing · Crypto Rails (TON/USDT)
-**Compliance:** KYC/AML/KYB/KYT · Travel Rule · MiCA · DFSA
-**Banking:** Core Banking (C#/.NET) · SME Lending · IBM BPM · FICO Origination
-
-</details>
+**Agents & AI:** Claude Code CLI · Codex CLI · Cursor · v0 · custom MCP servers · OpenAI / Anthropic / Gemini SDKs · RAG · prompt caching · structured outputs · tool use · evals
+**Frontend:** Next.js · React · TypeScript · SwiftUI · Tailwind · Radix · React Native · Expo
+**Backend:** Node · NestJS · Python · Prisma · C# / .NET (origin stack, still ship)
+**Data & infra:** PostgreSQL · Supabase · Firebase · Redis · Vercel · AWS S3
+**Payments & analytics:** Stripe · PostHog · Resend
+**Web3:** Solana · Ethereum · Wagmi · Viem · Jupiter DEX
+**Testing:** Playwright · Vitest · Jest
+**Fintech depth:** KYC/AML/KYB/KYT · Travel Rule · MiCA · DFSA · Visa/UnionPay Principal Memberships · multi-currency card issuing · crypto rails
 
 ---
 
 ## Background
 
-🎓 MSc Computer Engineering (Bauman MSTU, First Class) + BSc Finance (First Class)
-💼 20+ yrs banking tech: Otkritie, Sberbank, VTB, Moscow Exchange, ECOMMPAY — £100M+ IT portfolios, 230+ FTE orgs
-🛠️ Started as C#/.NET engineer building HotSOS — hotel CRM used by 1,000+ properties worldwide
-🌍 UK Global Talent Visa · London, UK
-
-## Philosophy
-
-> Ship fast, comply hard. Re-architect signal, not noise.
+🎓 MSc Computer Engineering — **Bauman Moscow State Technical University** (First Class) · BSc Finance (First Class)
+💼 20+ years banking tech: Otkritie, Sberbank, VTB, Moscow Exchange, ECOMMPAY — £100M+ IT portfolios, 230+ FTE orgs
+🛠️ Production C#/.NET at age 20 — HotSOS hotel CRM, 1,000+ properties worldwide
+🌍 London · UK Global Talent Visa · Open to relocation for the right problem
 
 ---
 
+> **Philosophy:** Ship fast, comply hard. Re-architect signal, not noise.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasiliyuvarov)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/vasilyu)
-[![Website](https://img.shields.io/badge/ym8.co.uk-FF7139?style=flat-square&logo=safari&logoColor=white)](https://www.ym8.co.uk)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/vasilyu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vasilyu@gmail.com)
 
 <div align="center">
@@ -187,14 +115,12 @@ Wagmi · Viem · Jupiter DEX
 </div>
 
 <details>
-<summary>Random Facts</summary>
+<summary>Why the receipt matters</summary>
 
-- Started coding C#/.NET in 2003, building hotel CRM systems for 1,000+ properties worldwide
-- Built Cosmic Copilot because generic horoscope apps annoyed me — now it runs VSOP87 ephemeris at ±0.1° precision
-- Scaled Altery from 1 to 72 corporate accounts in 10 months
-- First Class degrees from both Bauman (Russia's MIT) and Finance University
-- Languages: English C2, Russian native
-- UK Global Talent Visa holder
-- Operating style: Disruptor-Strategist — "I don't optimize noise, I re-architect signal"
+In 2026 everyone claims they "use AI to code." Most can't show the receipt. I run Claude Code and Codex at production intensity daily and the github telemetry above is the externally verifiable artifact: 9 separate repos, 3,236 commits, single author on every commit, ~16/day average.
+
+The point isn't the volume — it's that a senior operator with a C-level day job can still ship as if engineering is the title. That's the "AI-augmented operator" archetype, and I think it's underrated for the next 24 months of agentic AI.
+
+Numbers verifiable on request. Repo read-access available for serious inbound (recruiters, founders, technical partners).
 
 </details>
