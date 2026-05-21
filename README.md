@@ -1,6 +1,6 @@
 # Vasiliy Uvarov
 
-> Shipping AI compliance agents by day, astrology engines by night. 139 skills and counting.
+> Shipping AI compliance agents by day, astrology engines by night. 220+ skills built · 64 open-sourced.
 
 <div align="center">
 
@@ -22,8 +22,8 @@ CDAIO at [Altery](https://www.altery.com) · 20 yrs TradFi + Crypto Rails · Lon
 ## What I'm Doing Now
 
 - **AEO Platform** — Building AI visibility monitoring for brands across 8 AI engines. Launched, growing.
-- **Altery AI agents** — Running production agents powering compliance, KYB, and ops at a regulated EMI.
-- **AI Skills Library** — Open-sourcing 139 coding agent skills and 33 Custom GPT agents. Shipping weekly.
+- **Altery AI agents** — Running 30 production agents (23 Custom GPTs + 7 Agent SDK apps) across compliance, KYB, ops, and customer workflows at a regulated EMI.
+- **AI Skills Library** — 220+ coding agent skills and 30 Custom GPT agents in a private framework; 64 skills + 28 agents open-sourced in [AI-Agents-public](https://github.com/vasilyu1983/AI-Agents-public). Shipping weekly.
 - **Cosmic Copilot** — AI astrology from real birth charts, not sun-sign horoscopes. 14 languages, VSOP87 ephemeris.
 - **Prime** — Consulting on real estate tech for a London-based residential property platform.
 
@@ -46,28 +46,28 @@ CDAIO at [Altery](https://www.altery.com) · 20 yrs TradFi + Crypto Rails · Lon
 
 ## Open Source: AI Agents Library
 
-**[vasilyu1983/AI-Agents-public](https://github.com/vasilyu1983/AI-Agents-public)** — 33 Custom GPT agents + 139 AI coding skills
+**[vasilyu1983/AI-Agents-public](https://github.com/vasilyu1983/AI-Agents-public)** — 28 Custom GPT agents + 64 AI coding skills (curated subset of a larger private framework)
 
 | Domain | Agents |
 |--------|-------:|
 | Programming | 5 |
-| Productivity | 9 |
-| Lifestyle | 10 |
+| Productivity | 8 |
+| Lifestyle | 7 |
 | Education | 3 |
 | Research & Analysis | 3 |
-| Writing | 3 |
+| Writing | 2 |
 
 Skills drop into `.claude/skills/` or `.codex/skills/`. Follows the [Agent Skills spec](https://agentskills.io/specification).
 
 <details>
 <summary>Full agent list by domain</summary>
 
-**Programming** — AI Agents Builder · LLM Engineer · Data Scientist · PRD Architect · SQL & DevOps Engineer
-**Productivity** — Prompt Engineer (Claude) · Prompt Engineer (CustomGPT) · Product Coach · Negotiator · Contract Crusher · SMMA · Lead Generation · LinkedIn Viral Post Writer · Career Coach
-**Lifestyle** — Fitness Buddy · DietGPT · Sleep Consultant · Child Psychologist · Pet Whisperer · CineMatch · ReelRecipe · CosmicGPT · GP · GP Private
+**Programming** — AI Agents · DS · LLM · PRD · SQL-DevOps
+**Productivity** — AI Fluency Coach · Contract Crusher · Lead-generation · Negotiation Coach · Product Coach · Prompt Engineer · SEO Auditor · SMM Assistant
+**Lifestyle** — ChildBridge · CineMatch · DietGPT · Fitness Buddy · Pets · ReelRecipe · Sleep Coach
 **Education** — English Tutor · UK Tax & Legal Adviser · Life in the UK
 **Research & Analysis** — AI Strategist · Startup Consultant · Strategy Consultant
-**Writing** — AI Text Humaniser · Technical SEO Auditor · AI Fluency Coach
+**Writing** — AI Text Humaniser · FAANG Interview & Career Coach
 
 </details>
 
@@ -75,7 +75,7 @@ Skills drop into `.claude/skills/` or `.codex/skills/`. Follows the [Agent Skill
 
 ## Altery — Production AI Agents
 
-CDAIO at [Altery](https://www.altery.com) (EMI/FinTech). Built and run 15 production agents across compliance, operations, and customer workflows.
+CDAIO at [Altery](https://www.altery.com) (EMI/FinTech). Built and run 30 production agents (23 Custom GPTs + 7 Agent SDK apps) across compliance, operations, engineering, and customer workflows.
 
 🦅 **Hawkeye** — AML/CTF horizon scanning across UK + EU-CY jurisdictions
 📋 **RegLens** — Regulatory policy review with gap tables and remediation plans
@@ -84,9 +84,9 @@ CDAIO at [Altery](https://www.altery.com) (EMI/FinTech). Built and run 15 produc
 📈 **Metabase Buddy** — Plain English → SQL/MBQL (dashboards in minutes, not days)
 🔒 **Policy Reviewer** — Forensic policy review with verbatim quotes and regulatory citations
 
-+ 9 more: SmartDeploy · Customer Support · Mobile App Updates · Tech Writer · JD Assistant · DPIA · BPAT · Expansion Scanner · Marketing Researcher
++ 24 more across compliance, ops, engineering, support, and strategy domains: SmartDeploy · Customer Support · Mobile App Updates · Tech Writer · JD Assistant · DPIA · BPAT · Expansion Scanner · Marketing Researcher · and Agent SDK apps for KYB, regulatory scanning, data access, and product/engineering support.
 
-**Key metrics:** Scaled GMV 30×, grew from 1 to 72 corporate accounts in 10 months, €13M+ monthly volume.
+**Key metrics:** Verified user base 30× (161 → 4,895), 1 → 72 corporate accounts in 10 months, €13M+ monthly volume.
 
 ---
 
@@ -179,8 +179,6 @@ Wagmi · Viem · Jupiter DEX
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/vasilyu)
 [![Website](https://img.shields.io/badge/ym8.co.uk-FF7139?style=flat-square&logo=safari&logoColor=white)](https://www.ym8.co.uk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vasilyu@gmail.com)
-
-![Contribution Graph](https://ghchart.rshah.org/vasilyu1983)
 
 <div align="center">
 
